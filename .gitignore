@@ -1,2 +1,7 @@
 venv/
 __pycache__/
+data/ieee_eog/
+data/models/
+data/sessions/fake*
+data/synthetic.csv
+data/session_log.csv
